@@ -1,1 +1,23 @@
-venv
+# Python
+*.pyc
+__pycache__/
+app/__pycache__/
+
+# Django stuff
+*.log
+*.pot
+*.pyc
+*.sqlite3
+*.mo
+*.db
+
+# Env files
+.env
+
+# IDEs
+.idea/
+.vscode/
+
+# Virtual environment
+venv/
+env/
